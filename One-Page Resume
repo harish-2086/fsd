@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> RESUME </title>
+<style> table, th, td {border:1px solid black;}</style>
+</head>
+
+<h3 style="color:blue;"> RESUME </h3>
+<h2> HARISH VIJAYAKUMAR </h2>
+<p> Phone: +91 93639 20806 | Email: thisisharish01@gmail.com </p>
+<p> LinkedIn: <a href="https://linkedin.com/in/itsharishhere/">linkedin.com/in/itsharishhere/</a> | Website: <a href="https://itsharish.framer.website/">itsharish.framer.website/</a> </p>
+
+<h3 style="color:blue"> PROFESSIONAL SUMMARY </h3>
+<p> Design engineer crafting impactful digital experiences across web, brand, and product. Currently building tools at Navigate Labs. Exploring AI, no-code, and interactive design systems. Open to remote design roles. </p>
+
+<h3 style="color:blue"> EXPERIENCE </h3>
+<h3> Navigate Labs </h3>
+<h4> April 2025 - Present | Virginia, United States [Remote] </h4>
+<ul>
+  <li> Executed complete website design and development using Framer platform with custom CMS integration while working closely with stakeholders.
+Optimized for responsiveness, accessibility, and performance.</li>
+  <li> Implemented strategic branding elements including logo design, typography systems, color palettes, and visual identity guidelines to maintain brand
+consistency across all digital and print materials.</li>
+  <li> Collaborated with design and engineering teams to develop scalable UI/UX solutions using Framer, Figma, and modern no-code tools.</li>
+</ul>
+
+<h3> Studio Fingo </h3>
+<h4> September 2025 - Present | Bangalore, Karnataka [Remote] </h4>
+<ul>
+  <li> Developing and maintaining the brand's website using Framer as primary tool while implementing SEO best practices and optimizing performance for
+increased organic traffic and user engagement.</li>
+  <li> Created social media visuals, graphics, and marketing collateral using Figma and Adobe tools to enhance brand reach across Instagram, LinkedIn, and
+Facebook channels.</li>
+  <li> Collaborated with cross-functional teams to align design, content strategy, and brand messaging across digital touchpoints and marketing campaigns.</li>
+</ul>
+
+<h3> INFINITEBOX </h3>
+<h4> August 2024 - December 2024 | Chennai, Tamil Nadu  [Remote] </h4>
+<ul>
+  <li> Conducted user research and competitive analysis studies to identify market trends and user behavior patterns. </li> <li> Created comprehensive brand identity
+assets including graphics, infographics, and marketing materials for digital platforms using Adobe Creative Suite and Figma.</li>
+</ul>
+
+<h3 style="color:blue"> PROJECTS </h3>
+<h3> <a href="https://navigatelabs.ai/"> Navigate Labs Website </a> </h3>
+<ul>
+ <li> Designed and developed a production-ready website for Navigate Labs using Framer with custom animations and CMS integration bringing brand
+vision to life online.</li></ul>
+
+<h3> <a href="https://studiofingo.com/"> Studio Fingo Website </a> </h3>
+<ul>
+ <li> Designed and developed a clean and minimal conversion ready website for an architecture agency that has included functionality to access all
+projects with ease and generate leads.</li></ul>
+
+<h3 style="color:blue"> EDUCATION </h3>
+ <table> 
+ <tr> 
+ <th> Educational Qualification </th>
+ <th> Institution name </th> 
+ <th> Duration </th>
+ </tr> 
+
+ <tr> 
+ <td> Bachelor of Engineering in Computer Science and Design </td>
+ <td> Kongu Engineering College, Erode </td>
+ <td> 2024 - 2028 </td> 
+ </tr>
+  
+ <tr> 
+ <td> High School - Computer Science with Mathematics </td>
+ <td> Bharathi Vidya Bhavan </td> 
+ <td> 2022-2024 </td>
+ </td>
+ </table>
+
+<h3 style="color:blue"> SKILLS </h3>
+<ul>
+<li> <h4> Design: </h4> <p>UX/UI Design, Web Design, Visual Design, Brand Identity, Design Systems, Graphic Design, Design Thinking</p> </li>
+<li> <h4> Tools: </h4> <p>Figma, Framer, Adobe Creative Suite (Photoshop, Illustrator), Canva and AI Tools for design and development</p> </li>
+<li> <h4> Field of Expertise: </h4> <p>Social Media Marketing, SEO, Content Creation, Project Management, Brand Management, User Research</p> </li> </ul>
+
+<h3 style="color:blue"> RESEARCH WORKS </h3>
+<h4> User Satisfaction - UX Design Strategies for Seamless Virtual Experience </h4>
+<p> Published in arXiv, e-archive of research works managed by Cornell University </p>
+<h4> Neuroaesthetics and the Science of Visual Experience </h4>
+<p> Published in arXiv, e-archive of research works managed by Cornell University </p>
